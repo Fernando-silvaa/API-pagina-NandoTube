@@ -110,5 +110,21 @@
       "url": "https://www.youtube.com/embed/Jt6cRnki-IE",
       "imagem": "",
       "categoria": "Debates"
+    },
+    {
+      "id": 15,
+      "titulo": "Guia de Carreira: Android | Hipsters.Talks",
+      "descricao": "1,9 mil visualizações",
+      "url": "https://www.youtube.com/embed/Jt6cRnki-IE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Debates"
+    },
+    {
+      "id": 16,
+      "titulo": "Como iniciar em Desenvolvimento Web? O que estudar?",
+      "descricao": "141 mil visualizações",
+      "url": "https://www.youtube.com/embed/01bCZPpSQxY",
+      "imagem": "",
+      "categoria": "Front-end"
     }
 ]  
