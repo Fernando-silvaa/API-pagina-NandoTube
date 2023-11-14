@@ -1,130 +1,138 @@
 [
-    {
-      "id": 1,
-      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
-      "descricao": "3 mil visualizações",
-      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Programação"
-    },
-    {
-      "id": 2,
-      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
-      "descricao": "1,5 mil visualizações",
-      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Mobile"
-    },
-    {
-      "id": 3,
-      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
-      "descricao": "30 mil visualizações",
-      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Programação"
-    },
-    {
-      "id": 4,
-      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
-      "descricao": "2,5 mil visualizações",
-      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Data Science"
-    },
-    {
-      "id": 5,
-      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
-      "descricao": "1,2 mil visualizações",
-      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Podcasts"
-    },
-    {
-      "id": 6,
-      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
-      "descricao": "1,6 mil visualizações",
-      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Mobile"
-    },
-    {
-      "id": 7,
-      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
-      "descricao": "3,2 mil visualizações",
-      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Data Science"
-    },
-    {
-      "id": 8,
-      "titulo": "baNaNa | Memes do JavaScript #2",
-      "descricao": "1,2 mil visualizações",
-      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Programação"
-    },
-    {
-      "id": 9,
-      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
-      "descricao": "1 mil visualizações",
-      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Ao Vivo"
-    },
-    {
-      "id": 10,
-      "titulo": "Guia de carreira Front-end | #HipstersPontoTube",
-      "descricao": "18 mil visualizações",
-      "url": "https://www.youtube.com/embed/fpth65ts3cw",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Debates"
-    },
-    {
-      "id": 11,
-      "titulo": "Educação coorporativa",
-      "descricao": "4 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Inovação"
-    },
-    {
-      "id": 12,
-      "titulo": "Como deixar o Layout Responsivo no seu site | #AluraMais",
-      "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/kyFiT4ofMwk",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Front-end"
-    },
-    {
-      "id": 13,
-      "titulo": "Será que a inteligência artificial será tão poderosa quanto os seres humanos? com Gui Silveira",
-      "descricao": "12 mil visualizações",
-      "url": "https://www.youtube.com/embed/Kk3vBRqKA2o",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Inteligência Artificial"
-    },
-    {
-      "id": 14,
-      "titulo": "Guia de Carreira: Android",
-      "descricao": "1,9 mil visualizações",
-      "url": "https://www.youtube.com/embed/Jt6cRnki-IE",
-      "imagem": "",
-      "categoria": "Debates"
-    },
-    {
-      "id": 15,
-      "titulo": "Guia de Carreira: Android | Hipsters.Talks",
-      "descricao": "1,9 mil visualizações",
-      "url": "https://www.youtube.com/embed/Jt6cRnki-IE",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "categoria": "Debates"
-    },
-    {
-      "id": 16,
-      "titulo": "Como iniciar em Desenvolvimento Web? O que estudar?",
-      "descricao": "141 mil visualizações",
-      "url": "https://www.youtube.com/embed/01bCZPpSQxY",
-      "imagem": "https://yt3.googleusercontent.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s176-c-k-c0x00ffffff-no-rj",
-      "categoria": "Front-end"
-    }
+  {
+    "id": 1,
+    "titulo": "Guia de Carreira: Android | Hipsters.Talks",
+    "descricao": "1,9 mil visualizações",
+    "url": "https://www.youtube.com/embed/Jt6cRnki-IE",
+    "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+    "categoria": "Debates"
+  },
+  {
+    "id": 2,
+    "titulo": "Como iniciar em Desenvolvimento Web? O que estudar?",
+    "descricao": "141 mil visualizações",
+    "url": "https://www.youtube.com/embed/01bCZPpSQxY",
+    "imagem": "https://yt3.googleusercontent.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s176-c-k-c0x00ffffff-no-rj",
+    "categoria": "Front-end"
+  },
+  {
+    "id": 3,
+    "titulo": "PROGRAMADOR FRONT-END: Tudo para você começar! | PRIMOTECH EP 5",
+    "descricao": "74 mil visualizações",
+    "url": "https://www.youtube.com/embed/wmM1Y0FTiz8",
+    "imagem": "https://yt3.googleusercontent.com/Uy6hhNN2g0WXTQJbjLNXSNXKSclonXLgyWVlxMRzz-0CafhwgSZ3uJSHY0UOqupSb6VntQVdGg=s176-c-k-c0x00ffffff-no-rj",
+    "categoria": "Podcasts"
+  },
+  {
+    "id": 4,
+    "titulo": "O QUE É ALGORITMO?",
+    "descricao": "126 mil visualizações",
+    "url": "https://www.youtube.com/embed/dvNp575fwzQ",
+    "imagem": "https://yt3.googleusercontent.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s176-c-k-c0x00ffffff-no-rj",
+    "categoria": "Programação"
+  },
+  {
+    "id": 5,
+    "titulo": "Web x Mobile o que muda na hora de PROGRAMAR entre as plataformas?",
+    "descricao": "4,8 mil visualizações",
+    "url": "https://www.youtube.com/embed/t51Vvl8Tp1Q",
+    "imagem": "https://yt3.googleusercontent.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s176-c-k-c0x00ffffff-no-rj",
+    "categoria": "Mobile"
+  },
+  {
+    "id": 6,
+    "titulo": "Data Science: Introdução a Ciência de Dados (Primeira aula prática programando em Python)",
+    "descricao": "367 mil visualizações",
+    "url": "https://www.youtube.com/embed/F608hzn_ygo",
+    "imagem": "https://yt3.googleusercontent.com/ytc/APkrFKbqcDFU20JneEdewsgiLzveGvM998DJnv_uzVMr=s176-c-k-c0x00ffffff-no-rj",
+    "categoria": "Data Science"
+  },
+  {
+    "id": 7,
+    "titulo": "Principais dúvidas sobre o desenvolvimento de apps",
+    "descricao": "17 mil visualizações",
+    "url": "https://www.youtube.com/embed/3OZWt8r70wI",
+    "imagem": "https://yt3.googleusercontent.com/ytc/APkrFKbX6evgRlI5aP2ZSS2JhEhUPTdMAsa_pN_fC62rRA=s176-c-k-c0x00ffffff-no-rj",
+    "categoria": "Apps"
+  },
+  {
+    "id": 8,
+    "titulo": "O Sistema de Produtividade INSANO de Stephen Wolfram",
+    "descricao": "170 mil visualizações",
+    "url": "https://www.youtube.com/embed/if8NM1BbZ34",
+    "imagem": "https://yt3.googleusercontent.com/ytc/APkrFKbqcDFU20JneEdewsgiLzveGvM998DJnv_uzVMr=s176-c-k-c0x00ffffff-no-rj",
+    "categoria": "Inovação"
+  },
+  {
+    "id": 9,
+    "titulo": "COMO a INTELIGÊNCIA ARTIFICIAL realmente FUNCIONA?",
+    "descricao": "77 mil visualizações",
+    "url": "https://www.youtube.com/embed/b9HzilHAIbs",
+    "imagem": "https://yt3.googleusercontent.com/JHbnl_g4Xk1ouCQ4lP8kt1h4cjL_Gzwna1c-hLUKlWbP4MP6IByNIl8dZcP2S7Tv4HccQ7gv_A=s176-c-k-c0x00ffffff-no-rj",
+    "categoria": "Inteligência Artificial"
+  },
+  {
+    "id": 10,
+    "titulo": " Guia de Carreira: Dev Full-Stack | #HipstersPontoTube ",
+    "descricao": "382 mil visualizações",
+    "url": "https://www.youtube.com/embed/p5sjmV0_Yto",
+    "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+    "categoria": "Debates"
+  },
+  {
+    "id": 11,
+    "titulo": " Guia de Carreira: Inteligência Artificial (IA) | #HipstersPontoTube ",
+    "descricao": "3,7 mil visualizações",
+    "url": "https://www.youtube.com/embed/5QzXPjqQt7E",
+    "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+    "categoria": "Inteligência Artificial"
+  },
+  {
+    "id": 12,
+    "titulo": "PROGRAMADOR BACK-END: Como uma simples linha de código pode MUDAR TUDO? (Grupo Primo) | PRIMOTECH 09",
+    "descricao": "32 mil visualizações",
+    "url": "https://www.youtube.com/embed/fffr8KjKdVw",
+    "imagem": "https://yt3.googleusercontent.com/Uy6hhNN2g0WXTQJbjLNXSNXKSclonXLgyWVlxMRzz-0CafhwgSZ3uJSHY0UOqupSb6VntQVdGg=s176-c-k-c0x00ffffff-no-rj",
+    "categoria": "Podcast"
+  },
+  {
+    "id": 13,
+    "titulo": "JavaScript ou TypeScript? Qual Escolher? Faz sentido?",
+    "descricao": "8,6 mil visualizações",
+    "url": "https://www.youtube.com/embed/FL1N4AP_uQ4",
+    "imagem": "https://yt3.googleusercontent.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s176-c-k-c0x00ffffff-no-rj",
+    "categoria": "Front-end"
+  },
+  {
+    "id": 14,
+    "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+    "descricao": "1,5 mil visualizações",
+    "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+    "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+    "categoria": "Mobile"
+  },
+  {
+    "id": 15,
+    "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+    "descricao": "30 mil visualizações",
+    "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+    "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+    "categoria": "Programação"
+  },
+  {
+    "id": 16,
+    "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+    "descricao": "1 mil visualizações",
+    "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+    "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+    "categoria": "Ao Vivo"
+  },
+  {
+    "id": 17,
+    "titulo": "CSS Defensivo: as dicas de CSS que você não sabia que precisava",
+    "descricao": "3,2 mil visualizações",
+    "url": "https://www.youtube.com/embed/K7NfPH-vMuA",
+    "imagem": "https://yt3.googleusercontent.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s176-c-k-c0x00ffffff-no-rj",
+    "categoria": "Front-end"
+  }
 ]  
