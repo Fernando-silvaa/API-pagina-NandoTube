@@ -102,5 +102,13 @@
       "url": "https://www.youtube.com/embed/Kk3vBRqKA2o",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "categoria": "Inteligência Artificial"
+    },
+    {
+      "id": 13,
+      "titulo": "Guia de carreira Android",
+      "descricao": "12 mil visualizações",
+      "url": "https://www.youtube.com/embed/Jt6cRnki-IE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "APPS"
     }
 ]  
